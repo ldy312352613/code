@@ -1,1 +1,3 @@
-
+四个视频文，成功上传四个，还有一个因为过大上传失败
+成功的：byTagName   innerHTML    node  
+失败的：onready state change
